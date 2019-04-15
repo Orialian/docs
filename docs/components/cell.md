@@ -24,6 +24,11 @@ isCategories: true
 <wo-cell label="基础用法" label-size="16px" label-color="green"></wo-cell>
 ```
 
+设置允许横向超出滚动
+``` html
+<wo-cell is-scroll></wo-cell>
+```
+
 ## Properties 属性
 
 | 属性名     | 说明                       | 类型      | 默认值  |

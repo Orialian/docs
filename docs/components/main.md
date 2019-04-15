@@ -9,6 +9,13 @@ isCategories: true
 主显示区主要展示设备所在的房间,设备图片和当前设备的开关状态. 直属body
 :::
 
+## 代码演示
+
+写法
+```html
+<wo-main location="客厅" is-open="false" image-url="设备logo图片地址"></wo-main>
+```
+
 ## Properties 属性
 
 | 属性名   | 说明         | 类型    | 默认值 |

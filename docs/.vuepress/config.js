@@ -1,7 +1,7 @@
 module.exports = {
   title: "wo-ui 窝窝平台的配套组件",
-  description: "wo ui 的使用介绍",
-  base: "/",
+  description: "wo-ui 使用介绍",
+  base: "/wo-doc/",
   theme: "reco",
   markdown: {
     lineNumbers: false
@@ -43,7 +43,7 @@ module.exports = {
           ['/components/action-sheet', '上拉列表'],
           ['/components/color-choose', '颜色选择'],
           ['/components/count', '计数器'],
-          ['/components/mode-control', '模式选择'],
+          ['/components/mode', '模式选择'],
           ['/components/progress', '进度条'],
           ['/components/switch', '开关'],
         ]
